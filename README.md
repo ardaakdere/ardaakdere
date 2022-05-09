@@ -10,6 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=ardaakdere@gmail.com)](ardaakdere@gmail.com) 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arda.akdere)](https://medium.com/@arda.akdere)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)](https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)
+[![Google Play Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.ardakdere.kelimezber&hl=tr&gl=US)](https://play.google.com/store/apps/details?id=com.ardakdere.kelimezber&hl=tr&gl=US)
 
 ### About me...  <img src="https://media1.giphy.com/media/tQf7QsufS3DQfLcsw6/giphy.gif" width="50"> 
 I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Developer, I learn new things every day 📭. And I enjoy using what I learned in my new projects and producing written and video content. 🎙🎬<br/><br/>
