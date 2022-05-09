@@ -20,7 +20,7 @@ I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Develope
 
 - 🔭 I’m currently working on Flask Web Project 🌶
 - 🌱 I’m currently learning Design Patterns in Python 📦
-<img width="490" height="270" src="dev.gif" align=right>
+<img width="490" height="270" src="https://raw.githubusercontent.com/ardaakdere/ardaakdere/main/dev-.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
