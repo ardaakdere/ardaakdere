@@ -6,6 +6,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/arda-akdere/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pumpingcode/)](https://www.instagram.com/pumpingcode/) 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=http://ardaakdere.com)](http://ardaakdere.com) 
+[![Datacamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F&link=https://www.datacamp.com/profile/ardaakdere)](https://www.datacamp.com/profile/ardaakdere) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=ardaakdere@gmail.com)](ardaakdere@gmail.com) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arda.akdere)](https://medium.com/@arda.akdere)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)](https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)
 
 ### About me...  <img src="https://media1.giphy.com/media/tQf7QsufS3DQfLcsw6/giphy.gif" width="50"> 
 I'm an **Undergrad Student.** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
