@@ -39,18 +39,18 @@ I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Develope
 <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 
 ### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167404794-c84b80ed-8e47-4e2b-b368-61f0f1ae30eb.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167405756-33e0fb15-6882-4810-8cc4-77d8bb0ebe70.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167405962-a8b78f53-a3a5-469e-93fc-8f4d98ce4a11.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167405967-c5ef34d8-c4d2-419c-ae2a-1368816b26c9.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167406027-95fe91cc-a910-4db6-bc96-f19c94408080.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167406167-9943638c-3a80-4a37-893a-9e5bf5518e8d.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167406265-e8435c26-fbb9-476b-b733-084185c4b7f8.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407408-39a4404a-8514-4b32-9c55-d3ee37f08037.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407235-78d999f0-9756-435c-b995-7aca3ac58486.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407240-f905cef1-3e10-4704-b897-0577fada8661.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407652-01cbb5e7-aab8-4f87-a33f-d4cfb2d6dcee.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
