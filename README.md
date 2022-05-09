@@ -12,15 +12,13 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)](https://www.youtube.com/channel/UCOMAUEN3AxPA8qsoZS293fg)
 
 ### About me...  <img src="https://media1.giphy.com/media/tQf7QsufS3DQfLcsw6/giphy.gif" width="50"> 
-I'm an **Undergrad Student.** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
-
+I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Developer, I learn new things every day 📭. And I enjoy using what I learned in my new projects and producing written and video content. 🎙🎬<br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
+- 🔭 I’m currently working on Flask Web Project 🌶
+- 🌱 I’m currently learning Design Patterns in Python 📦
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
