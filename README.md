@@ -50,10 +50,10 @@ I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Develope
 <code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407408-39a4404a-8514-4b32-9c55-d3ee37f08037.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407235-78d999f0-9756-435c-b995-7aca3ac58486.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407240-f905cef1-3e10-4704-b897-0577fada8661.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407652-01cbb5e7-aab8-4f87-a33f-d4cfb2d6dcee.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167407789-2028f63d-3136-4be9-b3a9-a4e0ed25eeb5.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167409262-6d5120ca-a079-4d3c-81c9-bc7182f9b44c.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167409389-91f560af-a830-4ea9-9294-b804677c51a0.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/54773283/167409501-5ab81a93-8556-4d84-bece-940568e43abf.png"></code>  
 </details>
 
 
