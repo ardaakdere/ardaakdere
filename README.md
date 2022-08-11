@@ -13,7 +13,7 @@
 [![Google Play Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=com.ardakdere.kelimezber&hl=tr&gl=US)](https://play.google.com/store/apps/details?id=com.ardakdere.kelimezber&hl=tr&gl=US)
 
 ### About me...  <img src="https://media1.giphy.com/media/tQf7QsufS3DQfLcsw6/giphy.gif" width="50"> 
-I'm an **Undergrad Student.** On my way to becoming a Full Stack Python Developer, I learn new things every day 📭. And I enjoy using what I learned in my new projects and producing written and video content. 🎙🎬<br/><br/>
+On my way to becoming a Full Stack Python Developer, I learn new things every day 📭. And I enjoy using what I learned in my new projects and producing written and video content. 🎙🎬<br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
